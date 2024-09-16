@@ -1,6 +1,9 @@
 # VSCode
 .vscode/
 
+# idea
+.idea/
+
 # WandB
 wandb/
 
