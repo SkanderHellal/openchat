@@ -33,7 +33,7 @@ from ochat.serving import openai_api_protocol, async_tokenizer
 from transformers.utils.hub import cached_file
 
 
-TIMEOUT_KEEP_ALIVE = 5  # seconds
+TIMEOUT_KEEP_ALIVE = 20 # seconds
 
 
 @dataclass
